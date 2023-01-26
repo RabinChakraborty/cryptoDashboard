@@ -1,6 +1,6 @@
 Introduction-> This is the frontend capstone project by almabetter which is a crypto-dashboard.
 
-Deployed link->
+Deployed link->https://crypto-dashboard-mokef9935-rabinchakraborty.vercel.app/
 
 <details>
     <summary>Content</summary>
@@ -52,7 +52,7 @@ Deployed link->
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-  git clone ""
+  git clone "https://github.com/RabinChakraborty/cryptoDashboard-AlmaBetter.git"
 ```
 
 - Open your favorite code editor and run locally!
